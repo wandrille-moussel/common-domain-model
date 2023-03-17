@@ -1,8 +1,8 @@
 {
-  "name": "CDM",
-  "description": "ISDA Common Domain Model",
+  "name": "COMMON-DOMAIN-MODEL",
+  "description": "Common Domain Model",
   "modelPath": "rosetta-source/src/main",
-  "documentPath": "rosetta-source/src/main/resources/documents",
+  "documentPath": ".",
   "permissions": [],
   "ownerPermission": "cdm_owner",
   "lowestVersion": "2.186.3",
@@ -10,10 +10,9 @@
   "fixedVersions": [
     {
       "id": "v3",
-      "version": "3.2.1"
+      "version": "3.3.1"
     }
   ],
-  "privacyStatementLink": "https://www.isda.org/general/isda-member-and-non-member-representative-privacy-notice/",
   "links": [
     {
       "name": "CDM Portal",
@@ -26,11 +25,11 @@
   ],
   "documents": [
     {
-      "documentId": "CDM-1",
-      "modelId": "CDM",
-      "displayName": "License Terms",
-      "version": "3.0.0",
-      "filename": "license-terms-3.md"
+      "documentId": "CDM-LICENCE",
+      "modelId": "COMMON-DOMAIN-MODEL",
+      "displayName": "License",
+      "version": "1.0.0",
+      "filename": "LICENSE.md"
     }
   ],
   "dependencyArtifact": {
@@ -43,6 +42,6 @@
       "artifactId": "cdm"
     }
   ],
-  "primaryColor": "#024990",
+  "primaryColor": "#32007C",
   "shortname": "CDM"
 }
