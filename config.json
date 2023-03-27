@@ -6,7 +6,7 @@
   "permissions": [],
   "ownerPermission": "cdm_owner",
   "lowestVersion": "2.186.3",
-  "upmostVersion": "4.999.999",
+  "upmostVersion": "4.0.0-dev.36",
   "fixedVersions": [
     {
       "id": "v3",
