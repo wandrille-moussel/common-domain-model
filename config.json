@@ -5,12 +5,12 @@
   "documentPath": ".",
   "permissions": [],
   "ownerPermission": "cdm_owner",
-  "lowestVersion": "2.186.3",
-  "upmostVersion": "4.0.0-dev.47",
+  "lowestVersion": "3.0.0",
+  "upmostVersion": "4.999.999",
   "fixedVersions": [
     {
       "id": "v3",
-      "version": "3.3.1"
+      "version": "3.5.0"
     }
   ],
   "links": [
