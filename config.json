@@ -5,8 +5,8 @@
   "documentPath": ".",
   "permissions": [],
   "ownerPermission": "cdm_owner",
-  "lowestVersion": "3.0.0",
-  "upmostVersion": "4.999.999",
+  "lowestVersion": "3.5.0",
+  "upmostVersion": "4.0.0-dev.55",
   "fixedVersions": [
     {
       "id": "v3",
