@@ -38,8 +38,8 @@
   },
   "modelArtifacts": [
     {
-      "groupId": "com.isda",
-      "artifactId": "cdm"
+      "groupId": "org.finos.cdm",
+      "artifactId": "cdm-java"
     }
   ],
   "primaryColor": "#32007C",
