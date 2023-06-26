@@ -6,11 +6,11 @@
   "permissions": [],
   "ownerPermission": "cdm_owner",
   "lowestVersion": "3.5.0",
-  "upmostVersion": "4.0.0-dev.55",
+  "upmostVersion": "5.999.999",
   "fixedVersions": [
     {
-      "id": "v3",
-      "version": "3.5.0"
+      "id": "v4",
+      "version": "4.0.0"
     }
   ],
   "links": [
@@ -38,8 +38,8 @@
   },
   "modelArtifacts": [
     {
-      "groupId": "com.isda",
-      "artifactId": "cdm"
+      "groupId": "org.finos.cdm",
+      "artifactId": "cdm-java"
     }
   ],
   "primaryColor": "#32007C",
