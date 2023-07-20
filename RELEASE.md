@@ -1,4 +1,4 @@
-# *Addition of Valuation object in CDM*
+# *Product Model: Addition of Valuation object in CDM*
 
 _What is being released?_
 
